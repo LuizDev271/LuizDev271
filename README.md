@@ -4,6 +4,7 @@ Tenho 19 Anos, faço curso de  Web Desenvolvimento Full Stack, no momento domino
 <br>
 <br>
 No momento tenho tempo livre suficiente para estudar tanto Front-End quanto Back-End, e simultaneamente colocar em prática meus conhecimentos nessa área criando diversos sites de estilos diferentes. Pretendo futuramente me tornar um Programador Full-Stack e estou rumando para que isso venha á acontecer. colapsar
+<hr>
 
 ###
 
