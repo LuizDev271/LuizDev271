@@ -1,3 +1,9 @@
+<style>
+  img{
+      border: 1px solid #ffffff;
+  }
+</style>
+
 <h2 align="left">Sobre Mim</h2>
 
 Tenho 19 Anos, faço curso de  Web Desenvolvimento Full Stack, no momento domino a área de Front-End. Fiz vários projetos no momento envolvendo: HTML5, CSS3, JS e Bootstrap, projetos esses que foram recriações de sites famosos como: Netflix, Duolingo, Deezer e Spotify, e também a criação de Landing Pages de variados estilos e formatos. 
@@ -16,7 +22,7 @@ No momento tenho tempo livre suficiente para estudar tanto Front-End quanto Back
 
 ###
 
-<div align="left" style="border: 1px solid #ffffff">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
