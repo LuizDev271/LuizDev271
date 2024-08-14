@@ -1,6 +1,6 @@
 <style>
-  img{
-      border: 1px solid #ffffff;
+  h2{
+      color: #ff0000;
   }
 </style>
 
