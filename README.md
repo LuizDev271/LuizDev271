@@ -1,4 +1,4 @@
-<h2 align="left">Sobre Mim</h2>
+<h2 style="color: '#000000'" align="left">Sobre Mim</h2>
 
 Tenho 19 Anos, faço curso de  Web Desenvolvimento Full Stack, no momento domino a área de Front-End. Fiz vários projetos no momento envolvendo: HTML5, CSS3, JS e Bootstrap, projetos esses que foram recriações de sites famosos como: Netflix, Duolingo, Deezer e Spotify, e também a criação de Landing Pages de variados estilos e formatos. 
 <br>
