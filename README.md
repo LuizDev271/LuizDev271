@@ -16,7 +16,7 @@ No momento tenho tempo livre suficiente para estudar tanto Front-End quanto Back
 
 ###
 
-<div align="left">
+<div align="left" border="2">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
