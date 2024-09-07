@@ -1,7 +1,7 @@
 <h1 align="left">Sobre Mim</h1>
 
 Tenho 19 Anos, faço curso de  Web Desenvolvimento Full Stack, no momento domino a área de Front-End. Fiz vários projetos no momento envolvendo: HTML5, CSS3, JS e Bootstrap, projetos esses que foram recriações de sites famosos como: Netflix, Duolingo, Deezer e Spotify, e também a criação de Landing Pages de variados estilos e formatos. 
-<br height="10">
+<br>
 <br>
 No momento tenho tempo livre suficiente para estudar tanto Front-End quanto Back-End, e simultaneamente colocar em prática meus conhecimentos nessa área criando diversos sites de estilos diferentes. Pretendo futuramente me tornar um Programador Full-Stack e estou rumando para que isso venha á acontecer.
 <hr>
@@ -23,7 +23,7 @@ No momento tenho tempo livre suficiente para estudar tanto Front-End quanto Back
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="5" />
-  <br>
+  <br height="15">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
