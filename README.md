@@ -8,7 +8,7 @@ No momento tenho tempo livre suficiente para estudar tanto Front-End quanto Back
 
 ###
 
-<p align="left">- Desenvolvedor Front-End<br>- Cursando Desenvolvimento Web Full Stack<br>- Morando em: Campos - Rj</p>
+<p align="left">- Desenvolvedor Front-End<br>- Desenvolvedor Back-End<br>- Cursando Desenvolvimento Web Full Stack<br>- Morando em: Campos - Rj</p>
 
 ###
 
