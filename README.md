@@ -1,9 +1,9 @@
+
 <h1 align="left">Sobre Mim</h1>
 
-Tenho 19 Anos, faço curso de  Web Desenvolvimento Full Stack, no momento domino a área de Front-End. Fiz vários projetos no momento envolvendo: HTML5, CSS3, JS e Bootstrap, projetos esses que foram recriações de sites famosos como: Netflix, Duolingo, Deezer e Spotify, e também a criação de Landing Pages de variados estilos e formatos. 
-<br>
-<br>
-No momento tenho tempo livre suficiente para estudar tanto Front-End quanto Back-End, e simultaneamente colocar em prática meus conhecimentos nessa área criando diversos sites de estilos diferentes. Pretendo futuramente me tornar um Programador Full-Stack e estou rumando para que isso venha á acontecer.
+###
+
+<p align="left">Tenho 19 Anos, faço curso de Web Desenvolvimento Full Stack, no momento domino a área de Front-End. Fiz vários projetos no momento envolvendo: HTML5, CSS3, JS e Bootstrap, projetos esses que foram recriações de sites famosos como: Netflix, Duolingo, Deezer e Spotify, e também a criação de Landing Pages de variados estilos e formatos.<br><br>No momento tenho tempo livre suficiente para estudar tanto Front-End quanto Back-End, e simultaneamente colocar em prática meus conhecimentos nessa área criando diversos sites de estilos diferentes. Pretendo futuramente me tornar um Programador Full-Stack e estou rumando para que isso venha á acontecer.</p>
 <hr>
 
 ###
@@ -39,11 +39,9 @@ No momento tenho tempo livre suficiente para estudar tanto Front-End quanto Back
 
 ###
 
-<h2 align="left">Estatísticas</h2>
+<h2 align="left">Estatisticas</h2>
 
 ###
-
-<br clear="both">
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LuizDev271&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
