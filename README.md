@@ -1,6 +1,6 @@
 <h1 align="left">Sobre Mim</h1>
 
-Tenho 19 Anos, faço curso de  Web Desenvolvimento Full Stack, no momento domino a área de Front-End. Fiz vários projetos no momento envolvendo: HTML5, CSS3, JS e Bootstrap, projetos esses que foram recriações de sites famosos como: Netflix, Duolingo, Deezer e Spotify, e também a criação de Landing Pages de variados estilos e formatos. 
+Tenho 19 Anos, Fiz 1 ano do Curso Web Desenvolvimento Full Stack, e estou cursando Web Moderno Completo com JS, e no momento domino a área de Front-End. Fiz vários projetos no momento envolvendo: HTML5, CSS3, JS e Bootstrap, projetos esses que foram recriações de sites famosos como: Netflix, Duolingo, Deezer e Spotify, e também a criação de Landing Pages de variados estilos e formatos. 
 <br>
 <br>
 No momento tenho tempo livre suficiente para estudar tanto Front-End quanto Back-End, e simultaneamente colocar em prática meus conhecimentos nessa área criando diversos sites de estilos diferentes. Pretendo futuramente me tornar um Programador Full-Stack e estou rumando para que isso venha á acontecer.
