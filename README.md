@@ -1,9 +1,12 @@
 <h1 align="left">Sobre Mim</h1>
 
-Tenho 19 Anos, Fiz 1 ano do Curso Web Desenvolvimento Full Stack, e estou cursando Web Moderno Completo com JS, e no momento domino a área de Front-End. Fiz vários projetos no momento envolvendo: HTML5, CSS3, JS e Bootstrap, projetos esses que foram recriações de sites famosos como: Netflix, Duolingo, Deezer e Spotify, e também a criação de Landing Pages de variados estilos e formatos. 
+Sou o Luiz, tenho 20 anos, e trabalho como desenvolvedor Front-End, fazendo freelances entre outros serviços. Possuo mais de um ano de experiência na área de programação, trabalhando como freelancer. Trabalhos esses que foram, criação de Landing Pages para donos de negócios que tinham como objetivo expandir sua área de negócios, criação de telas de logins, e corrigindo problemas de diversos tipos em outros sites.
 <br>
 <br>
-No momento tenho tempo livre suficiente para estudar tanto Front-End quanto Back-End, e simultaneamente colocar em prática meus conhecimentos nessa área criando diversos sites de estilos diferentes. Pretendo futuramente me tornar um Programador Full-Stack e estou rumando para que isso venha á acontecer.
+Uso o VSCode e Sublime Text como ferramentas de codificação. Entretanto com o conhecimento que possuo, não me limito apenas a esse dois editores de códigos, sempre buscando aprender mais, seja sobre editores de código ou até mesmo as próprias linguagens, como Frameworks e Bibliotecas.
+<br>
+<br>
+E criando sites a partir de Wordpress, otimizando ainda mais a velocidade e o desempenho na hora da criação de diversos tipos de sites, seja uma Landing Page ou até mesmo E-Commerce.
 <hr>
 
 ###
