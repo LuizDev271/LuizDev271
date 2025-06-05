@@ -10,8 +10,6 @@ Uso o VSCode e Sublime Text como ferramentas de codificação. Entretanto com o 
 E criando sites a partir de Wordpress, otimizando ainda mais a velocidade e o desempenho na hora da criação de diversos tipos de sites, seja uma Landing Page ou até mesmo E-Commerce.
 <hr>
 
-###
-
 <h2 align="left">Tecnologias</h2>
 
 ###
