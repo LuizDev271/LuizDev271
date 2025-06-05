@@ -1,4 +1,4 @@
-<h1 align="left" style="border-bottom: none">Programador Front-End</h1>
+<h1 align="left" border="none">Programador Front-End</h1>
 <h2 align="left">Sobre Mim</h2>
 
 Sou o Luiz, tenho 20 anos, e trabalho como desenvolvedor Front-End, fazendo freelances entre outros serviços. Possuo mais de um ano de experiência na área de programação, trabalhando como freelancer. Trabalhos esses que foram, criação de Landing Pages para donos de negócios que tinham como objetivo expandir sua área de negócios, criação de telas de logins, e corrigindo problemas de diversos tipos em outros sites.
