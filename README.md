@@ -1,13 +1,10 @@
 <h1 align="left">Programador Front-End</h1>
 <h2 align="left">Sobre Mim</h2>
 
-Sou o Luiz, tenho 20 anos, e trabalho como desenvolvedor Front-End, fazendo freelances entre outros serviços. Possuo mais de um ano de experiência na área de programação, trabalhando como freelancer. Trabalhos esses que foram, criação de Landing Pages para donos de negócios que tinham como objetivo expandir sua área de negócios, criação de telas de logins, e corrigindo problemas de diversos tipos em outros sites.
+Sou o Luiz, tenho 20 anos, e trabalho como Desenvolvedor Front-End, fazendo freelances entre outros serviços. Possuo mais de dois anos de experiência na área de programação, trabalhando como freelancer.
 <br>
 <br>
-Uso o VSCode e Sublime Text como ferramentas de codificação. Entretanto com o conhecimento que possuo, não me limito apenas a esse dois editores de códigos, sempre buscando aprender mais, seja sobre editores de código ou até mesmo as próprias linguagens, como Frameworks e Bibliotecas.
-<br>
-<br>
-E criando sites a partir de Wordpress, otimizando ainda mais a velocidade e o desempenho na hora da criação de diversos tipos de sites, seja uma Landing Page ou até mesmo E-Commerce.
+Trabalho com foco em transformar layouts prontos em interfaces funcionais, interativas e responsivas, usando HTML, CSS e JavaScript puro. Tenho experiência prática em projetos pessoais e domínio de Git/GitHub, consumo de APIs, e atenção à usabilidade. Me especializo na implementação e codificação de interfaces, não na criação de layouts visuais.
 
 <h2 align="left">Tecnologias</h2>
 
