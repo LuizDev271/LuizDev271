@@ -1,4 +1,4 @@
-<h1 align="left">Programador Front-End</h1>
+<h1 align="left">Desenvolvedor Front-End</h1>
 <h2 align="left">Sobre Mim</h2>
 
 Sou o Luiz Gabriel Pessanha, tenho 20 anos, e sou um Desenvolvedor Front-End. Possuo mais de dois anos de experiência nessa área, trabalhando como freelancer e fazendo outros serviços.
