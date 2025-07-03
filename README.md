@@ -1,10 +1,10 @@
 <h1 align="left">Programador Front-End</h1>
 <h2 align="left">Sobre Mim</h2>
 
-Sou o Luiz, tenho 20 anos, e trabalho como Desenvolvedor Front-End, fazendo freelances entre outros serviços. Possuo mais de dois anos de experiência na área de programação, trabalhando como freelancer.
+Sou o Luiz Gabriel Pessanha, tenho 20 anos, e sou um Desenvolvedor Front-End. Possuo mais de dois anos de experiência nessa área, trabalhando como freelancer e fazendo outros serviços.
 <br>
 <br>
-Trabalho com foco em transformar layouts prontos em interfaces funcionais, interativas e responsivas, usando HTML, CSS e JavaScript puro. Tenho experiência prática em projetos pessoais e domínio de Git/GitHub, consumo de APIs, e atenção à usabilidade. Me especializo na implementação e codificação de interfaces, não na criação de layouts visuais.
+Trabalho com front end com foco em HTML, CSS, Bootstrap, JS e React, tenho experiência em criação de Landing Pages responsivas e interativas de vários estilos e estruturas. Também possuo experiência com versionamento de projetos com GIT e GITHUB que é algo extremamente necessário na criação de qualquer projeto, experiência em utilizações de APIs de diferentes conceitos. Focado mais em codificação e implementação de layouts visuais e designs, e não na criação deles.
 
 <h2 align="left">Tecnologias</h2>
 
@@ -25,9 +25,7 @@ Trabalho com foco em transformar layouts prontos em interfaces funcionais, inter
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="45" alt="jquery logo"  />
   <img width="5" />
-  <br>
-  <br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="55" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="react logo"  />
   <img width="5" />
 </div>
 
